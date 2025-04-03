@@ -1,0 +1,142 @@
+[
+	{
+		"name": "Orfebreria Muisca",
+		"replaces": "Forge",
+		"uniqueTo": "Confederación Muisca",
+		"maintenance": 1,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Iron Working",
+		"uniques": "[+1 Production, +1 Culture, +3 Gold]",
+	},
+	{
+		"name": "Catedral Santuario nuestra señora de las lajas",
+	        "uniqueTo": ["Gran Nariño","Confederación Muisca"],
+		"replaces": "Opera House",
+		"requiredTech": "Acoustics",
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"happiness": 5,
+		"culture": 1,
+		"specialistSlots": {"Artist": 3},
+		"civilopediaText": [
+			{
+				"text": "El santurio es un templo y basílica para el culto católico y veneración de Nuestra Señora de Las Lajas un gran sentro de peregrinacion y una de las 7 maravillas de Colombia"
+			}
+		]
+	},
+	{
+		"name": "Pukara usurpado",
+		"uniqueTo": "Confederación Muisca",
+		"food": 3,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+			"[+1 Food] from [Bananas] tiles [in this city]",
+			"[+1 Food] from [Wheat] tiles [in this city]"],
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Cafetales",
+		"uniqueTo": ["Gran Nariño","Confederación Muisca"],
+		"replaces": "Windmill",
+		"requiredTech": "Economics",
+		"maintenance": 2,
+		"uniques": ["[+1 Production, +1 Culture, +1 Gold] from [in this city]",
+			    "The Hacienda Cannot be build on Desert, Tundra nor Snow, only at Grassland/Plains Hills",
+			    "Limited to [4] per Civilization","Destroyed when the city is captured","Unsellable"],
+		"civilopediaText": [
+			{
+				"text": " Una plantacion de cafe Colombiano."
+			}
+		]
+
+	},
+	{
+		"name": "Monumento a Los Heroes",
+		"uniqueTo": ["Gran Nariño","Confederación Muisca","Gobi-Altai"],
+		"replaces": "Monument",
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"culture": 2,
+		"uniques": ["[+1 Culture] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles>",
+			    "[+1 Science] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles> <with [1] to [6] neighboring [Mountain] tiles> <after discovering [Flight]>",
+			    "[+2 Culture] <after discovering [Dynamite]>",
+			    "Cost increases by [20] per owned city"],
+		"civilopediaText": [
+			{
+				"text": "The classical main squares of Ecuador, dating back to the pre-colonial times, are between the best conserved of all Hispanic America, with over 300 years of existence, these plazas are a magnificent piece of history alive."
+			}
+		]
+	},
+	{ 
+		"name": "Terrazas de cultivo incas",
+		"uniqueTo": ["Gran Nariño","Confederación Muisca"],
+		"replaces": "Granary",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"food": 2,
+		"gold": 1,
+		"uniques": ["[+1 Food] from [Plantation] tiles [in this city]",
+					"Provides [1] [Vetiver Oil] <after discovering [Astronomy]>"],
+		"civilopediaText": [
+			{
+				"text": "The vetiver plant growing has been mastered in the Haitian domains, leading it to be the top exporter of its oils, which are used for western cosmetics."
+			}
+		]
+	},
+	{
+		"name": "Platanera",
+		"uniqueTo": ["Gran Nariño","Confederación Muisca"],
+		"replaces": "Windmill",
+		"food": 2,
+		"production": 1,
+		"specialistSlots": {"Merchant": 1},
+		"requiredTech": "Economics",
+		"uniqueTo": "Confederación Muisca",
+		"uniques": ["[25]% Food is carried over after population increases [in this city]","[+1 Production, +1 Food] from [Plantation] tiles [in this city]"],
+		"civilopediaText": [
+			{
+							"text": "Although it became a big industry thanks to colonialism, the Hondurans have turned it into a sign of national skill."
+			}
+		]
+
+	},
+	{
+		"name": "Fortaleza Naimana",
+		"uniqueTo": ["Gobi-Altai"],
+		"replaces": "Arsenal",
+		"requiredTech": "Metallurgy",
+		"cost": 200,
+		"hurryCostModifier": -40,
+		"maintenance": 1,
+		"cityHealth": 25,
+		"cityStrength": 18,
+		"uniqueTo": "Confederación Muisca",
+		"uniques": [
+				"[+1 Culture] <after discovering [Combined Arms]>",
+				"Destroyed when the city is captured"],
+		"civilopediaText": [
+			{
+				"text": "This valiant gunners fought with 'tooth and nail' to defend their fatherland from 3 antagonist nations at the same time, managing impressive victories that give the people pride."
+			}
+		]
+
+	},
+	{
+		"name": "Plaza del carnaval",
+		"uniqueTo": "Gran Nariño",
+		"replaces": "Circus Maximus",
+		"cost": 480,
+		"happiness": 12,
+		"culture": 12,
+		"science": 12,
+		"maintenance": 96,
+		"isNationalWonder": true,
+		"requiredBuildingInAllCities": "Colosseum",
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		
+],
