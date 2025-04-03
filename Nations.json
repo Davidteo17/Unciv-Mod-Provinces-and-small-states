@@ -1,0 +1,90 @@
+[
+	{
+		"name": "Confederación Muisca",
+		"leaderName": "Saquesazipa Cacique muisca",
+		"adjective": ["Indigena"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Soy un cacique muisca, guardián de los secretos de nuestra tierra sagrada, de los cerros verdes y los lagos que brillan bajo la mirada de Chie, el Sol, y Chía, la Luna",
+		"startIntroPart2": "Miranos ahora, Nuestros campos florecen con el fruto del maíz, nuestras manos moldean el barro y el oro, y nuestras palabras guardan la memoria de los ancestros. Pero no somos solo lo que hemos sido, sino también lo que seremos.",
+		
+		"declaringWar": "No buscamos la guerra, pero no tememos alzar nuestras macanas y flechas para proteger a nuestro pueblo, nuestra tierra y nuestra cultura. Que los dioses sean testigos de esta lucha, y que el destino decida el camino que habremos de seguir",
+		"attacked": "Hoy no celebramos una victoria, pero tampoco nos rendimos. Somos muiscas, hijos de la tierra, y nuestra fuerza reside en nuestra capacidad de levantarnos, aprender y seguir adelante",
+		"defeated": "Hemos luchado con honor, pero el destino no ha estado de nuestro lado. Nuestros enemigos han prevalecido, y nuestras fuerzas han sido mermadas",
+		"introduction": "Soy el cacique de estas tierras sagradas, guardián de los secretos de los cerros y los lagos que brillan bajo la mirada de Chie y Chía. Hoy, con el corazón pesado pero firme, alzo mi voz como el trueno que retumba en las montañas, para declarar que nuestra paz ha sido quebrantada",
+		
+		"neutralHello": "Que el maíz, nuestro sustento, nunca falte en tu hogar, y que el fuego sagrado de Zuhé, el abuelo Sol, ilumine tus pensamientos y acciones?",
+		"neutralLetsHearIt": ["Necesito una mejor explicación","¿que me dices?","No entiendo"],
+		"neutralNo": ["Esto es un insulto.","No!","Me rehuso."],
+		"neutralYes": ["Muy bien.","Porsupuesto, Si","Esto es muy bueno"],
+
+		"hateHello": "Aquellos que han profanado nuestros templos, pisoteado nuestras cosechas y deshonrado a nuestros ancestros",
+		"hateLetsHearIt": ["Escuchame!","Dimelo","Que"],
+		"hateNo": ["Esto  es posible!","Esto es una clase de humor europeo?","Que clase de bulgaridad es esta?"],
+		"hateYes": ["tendra que ser por el bien de mi pueblo.","tendre que aceptarlo.","muy bien..."],
+		
+		"afterPeace": "Hemos caminado por senderos de conflicto, donde la sangre ha manchado la tierra y el dolor ha nublado nuestros espíritus. Pero hoy, bajo la mirada de Chiminigagua, el creador de todo lo que existe, declaro que es tiempo de sembrar paz donde hubo discordia",
+		"tradeRequest": "En nombre de la Confederación Muisca, declaro que nuestras tierras están abiertas al trueque y al intercambio, como lo han estado desde tiempos inmemoriales",
+
+		"outerColor": [ 53,0,87],
+		"innerColor": [238,201,9],
+		"favoredReligion": "Christianity",
+		"unique": ["[+1 Faith] [in all cities]",
+		"[-50]% maintenance on road & railroads"],
+		
+		"cities": ["Chía","Bacatá","Ubaque","Choachí","Chipaque","Cáquezad","Usme","Ubaté","Cucunubá","Simijaca",
+			"Susa","Hunza","Suamox","Guatavita","Nemocón","Zipaquirá","Tausa","Tibaná","Fúquene","Muequetá",
+			"Tocancipá","Cota","Ubaté","Chipatá","Turmequé","Hunanquiráa"]
+	},
+	{
+		"name": "Gran Nariño",
+		"leaderName": "José Hilario López",
+		"adjective": ["Nariñense"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "¡Salve, oh Nariño bendito, tierra donde Dios puso su mano y la Patria su corazón!, Con el sacrosanto volcán Galeras como altar natural y el río Guáitara cual serpiente bautismal que fluye de los designios divinos, te saludo, ¡oh tierra de Cristo Rey y de la Virgen de las Lajas! Donde cada amanecer es un Deo Gratias escrito en oro sobre los cafetales, y cada noche un rosario de estrellas tejido por manos campesinas.",
+		"startIntroPart2": "¡Por la Patria que late en nuestro pecho!, Por el grito de ¡Viva Nariño libre! que resonó en la Independencia,por la sangre de nuestros héroes mezclada con el barro de los caminos reales, por las manos que siembran papas como actos de amor a Colombia y por los niños que cantan el Himno Nacional bajo la sombra del arrayán",
+		"declaringWar": "¡Guerra, hermanos de Nariño!, Que el rugido del volcán Galeras despierte nuestra ira sagrada!, Los enemigos han profanado nuestros santuarios, pisoteado los altares de La Virgen de Las Lajas, y manchado con su insolencia la tierra que sudor y sangre consagraron nuestros abuelos. ¡Ya basta!, ¡Que Nariño, hoy como ayer, sea tumba de tiranos!",
+		"attacked": "¡Que los cañones de la Independencia vuelvan a tronar!",
+		"defeated": "La muerte no se compara con el olvido.",
+		"introduction": "Un salodo de toda la gente de nariño, !se bienvenido¡",
+		
+		"neutralHello": "Desde las alturas del volcán Galeras, donde el cielo besa la tierra, hasta las playas doradas de Tumaco, donde el mar susurra historias ancestrales, les saludo con el corazón lleno de orgullo.",
+		"hateHello": "Que el canto del colibrí anuncie un nuevo amanecer.",
+		"tradeRequest": "Hermanos, hoy deponemos las armas. No por cobardía, sino porque la sabiduría de nuestros mayores nos dice, La verdadera victoria es sembrar maíz donde hubo sangre.",
+		
+		"outerColor": [43, 88, 46],
+		"innerColor": [146, 221, 10],
+		"favoredReligion": "Christianity",
+		"uniques": ["[+1 Faith, +1 Culture, +1 Production] fom every  [Mountain]"],
+		"cities": ["Pasto","Tumaco","Ipiales","Nariñol","cumbal","cumbitara","Arboleda","Buensaco","Funes","Guachucal",
+			"Samaniego","Belen de Nariño","La Union","San Bernardo","Túqueres","La Cruz","Alban","Guaitarilla",
+			"Puerres","Olaya Herrera","Ancuya","Contadero","Maguí Payán","Roberto Payán","Iles","Pupiales","Córdoba de Nariño","Gualmatán"]
+	},
+	{
+		"name": "Gobi-Altai",
+		"leaderName": "Gran Casique Kurchakus",
+		"adjective": ["Naimanos y Keraitas"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Que el Viento Blanco de las Estepas lleve mi voz hasta tu ger sagrado, donde el humo del incienso nestoriano se eleva junto al canto de los chamanes. Yo soy kurchakus, señor de los Tres Ríos de Hierro, cristiano bajo la Cruz pero jinete bajo el Tengri eterno.",
+		"startIntroPart2": "Por el poder de la lanza que unificó a las tribus, por la luz de la Estrella de Oriente que guió a los magos y por el sagrado Sudario que los nestorianos llevamos en los altares portátiles, te saludo con leche de yegua y pan de la Última Cena!",
+		"declaringWar": "Por el poder del Tengri que ruge en los cielos y por la Cruz de Cristo que brilla en mi estandarte, declaro que los cascos de mis jinetes oscurecerán el sol sobre tus tierra.",
+		"attacked": "Si no rindes tus armas ante el Sulde sagrado, que los lobos encuentren huesos para roer donde una vez estuvo tu pueblo.",
+		"defeated": "No es posible, los ciervos de satanas triunfaron hoy pero las hordas Naimanas regresaran para traerte el juicio final.",
+		"introduction": "Que los vientos sagrados de la sabiduría ancestral soplen a tu favor y que el fuego de los antepasados ilumine tu camino. Bajo la sombra del gran árbol cósmico, donde las raíces beben de la memoria de la tierra y las ramas acarician los secretos del cielo, te saludo con honra y reverencia.",
+		
+		"neutralHello": "Hola hermano de las estpas!",
+		"hateHello": "Es un Kitan No conose el honor!",
+		"tradeRequest": "Que el Viento Blanco lleve esta ofrenda de paz",
+		
+		"outerColor": [14, 113, 4],
+		"innerColor": [255, 163, 71],
+		"favoredReligion": "Christianity",
+		"uniqueName": "La cruz de las Estepas",
+		"uniques": ["[+30]% Strength <vs [City-States]>", "[+1] Movement <for [Mounted] units>"],
+		"cities": ["Tseel","Sharga","Nutsgen Uul","Uvs Nurur","Atirag","Khar Us","Tsa Baarau","Bombogorr","Tarvagatai","Uliastai","Sharga",
+			"Tsambagarau","Toukhon","Ongi","Nazaret de Altai","Antioquia de Altai","Tarso de Altai","Naimanapolis","Keriapois","Nestoria","Paso de la Cruz",]
+	},
